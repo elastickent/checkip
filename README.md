@@ -6,7 +6,7 @@ Send an alert when an Elastic Cloud's Webcrawler or other Search connector's IP 
 
 ![Alt text](/img/setup1.png?raw=true "Create webcrawler")
 
-* Either with the domain:
+* With the domain:
 ```http://ip.4ndata.com/``` or your local instance of checkip.py
 
 ![Alt text](/img/setup2.png?raw=true "Set domain")
